@@ -1,0 +1,8 @@
+Programming in Python	https://seek.onlinedegree.iitm.ac.in/courses/ns_23t1_cs1002
+Mathematics for Data Science II	https://seek.onlinedegree.iitm.ac.in/courses/ns_23t1_ma1003
+Computational Thinking	https://seek.onlinedegree.iitm.ac.in/courses/ns_22q3_cs1001
+English II	https://seek.onlinedegree.iitm.ac.in/courses/ns_23t1_hs1002
+Statistics for Data Science I	https://seek.onlinedegree.iitm.ac.in/courses/ns_22q3_ma1002
+Statistics for Data Science II	https://seek.onlinedegree.iitm.ac.in/courses/ns_23t1_ma1004
+Mathematics for Data Science I	https://seek.onlinedegree.iitm.ac.in/courses/ns_22q3_ma1001
+English I	https://seek.onlinedegree.iitm.ac.in/courses/ns_22q3_hs1001

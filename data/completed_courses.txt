@@ -1,0 +1,8 @@
+Programming in Python	https://ds.study.iitm.ac.in/student_dashboard/course_history/5360424312635392
+Mathematics for Data Science II	https://ds.study.iitm.ac.in/student_dashboard/course_history/5536357740969984
+Computational Thinking	https://ds.study.iitm.ac.in/student_dashboard/course_history/5717160135491584
+English II	https://ds.study.iitm.ac.in/student_dashboard/course_history/4707931295580160
+Statistics for Data Science I	https://ds.study.iitm.ac.in/student_dashboard/course_history/5736577883963392
+Statistics for Data Science II	https://ds.study.iitm.ac.in/student_dashboard/course_history/5218820650172416
+Mathematics for Data Science I	https://ds.study.iitm.ac.in/student_dashboard/course_history/5722908882108416
+English I	https://ds.study.iitm.ac.in/student_dashboard/course_history/5104832151027712
